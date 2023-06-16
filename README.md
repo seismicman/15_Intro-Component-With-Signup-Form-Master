@@ -24,7 +24,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/14_Base-Apparel-Coming-Soon-Master/](https://seismicman.github.io/14_Base-Apparel-Coming-Soon-Master/)
+Solution URL: [https://seismicman.github.io/15_Intro-Component-With-Signup-Form-Master/](https://seismicman.github.io/15_Intro-Component-With-Signup-Form-Master/)
 
 ## My process
 
